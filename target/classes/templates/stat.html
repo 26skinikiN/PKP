@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html th:data-bs-theme="${theme}" lang="ru" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Аналитика</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
+
+</head>
+
+<head th:insert="blocks/head :: head"></head>
+
+<body>
+
+<div th:insert="blocks/nav :: nav"></div>
+
+<main id="stat-page" class="page catalog-page mt-5">
+    <section class="clean-block clean-catalog dark">
+        <div class="container">
+            <div class="block-heading text-center mb-5">
+                <h2 class="text-info">Статистика</h2>
+            </div>
+
+            <hr>
+            <div id="drawAppStatuses" style="height: 400px"></div>
+            <hr>
+        </div>
+    </section>
+
+    <button class="dowload-button" onclick="downloadPDF()">Скачать в PDF</button>
+
+</main>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script th:inline="javascript" type="text/javascript">
+    var appStatusesNames = /*[[${appStatusesNames}]]*/ [];
+    var appStatusesValues = /*[[${appStatusesValues}]]*/ [];
+</script>
+<script src="/js/stats.js"></script>
+
+<script src="/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
