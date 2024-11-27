@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0009adb2-9aac-43f4-b89d-80db2fc6bfd8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2hMSvE5xPGvpvVcxKLLNI4FEUWI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;706&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;705&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.InvestmentApp.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BSUIR/5 семестр/ПКП/L567PKP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="InvestmentApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="investment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.investment.InvestmentApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0009adb2-9aac-43f4-b89d-80db2fc6bfd8" name="Changes" comment="" />
+      <created>1717402683360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717402683360</updated>
+      <workItem from="1717402685350" duration="4575000" />
+      <workItem from="1717428902157" duration="47000" />
+      <workItem from="1717452183434" duration="199000" />
+      <workItem from="1717452393083" duration="5000" />
+      <workItem from="1717517431233" duration="1401000" />
+      <workItem from="1717527316087" duration="753000" />
+      <workItem from="1717532426687" duration="1551000" />
+      <workItem from="1717534681090" duration="3626000" />
+      <workItem from="1717566959648" duration="5992000" />
+      <workItem from="1717592929500" duration="312000" />
+      <workItem from="1717594180215" duration="119000" />
+      <workItem from="1717621292746" duration="168000" />
+      <workItem from="1717702561864" duration="633000" />
+      <workItem from="1717704133285" duration="179000" />
+      <workItem from="1717705158283" duration="802000" />
+      <workItem from="1718225231062" duration="672000" />
+      <workItem from="1718827555735" duration="8000" />
+      <workItem from="1725293418718" duration="116000" />
+      <workItem from="1728153862018" duration="232000" />
+      <workItem from="1728493366306" duration="6000" />
+      <workItem from="1729423138244" duration="253000" />
+      <workItem from="1729942914070" duration="608000" />
+      <workItem from="1730025226698" duration="1240000" />
+      <workItem from="1730136697821" duration="1341000" />
+      <workItem from="1730193758180" duration="2753000" />
+      <workItem from="1730289729988" duration="631000" />
+      <workItem from="1730671427249" duration="354000" />
+      <workItem from="1730671925889" duration="112000" />
+      <workItem from="1731405537630" duration="71000" />
+      <workItem from="1731405757469" duration="745000" />
+      <workItem from="1731602850737" duration="336000" />
+      <workItem from="1732199556062" duration="1766000" />
+      <workItem from="1732230929108" duration="135000" />
+      <workItem from="1732268215722" duration="592000" />
+      <workItem from="1732268986514" duration="1954000" />
+      <workItem from="1732613178824" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
